@@ -1,0 +1,5 @@
+{
+  "name": "AI PC Part Picker",
+  "description": "An intelligent PC part picker powered by Gemini. Users can specify their budget and component preferences to generate a tailored, compatible list of PC parts with justifications and estimated costs.",
+  "requestFramePermissions": []
+}
