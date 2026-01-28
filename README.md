@@ -20,7 +20,7 @@ This application helps you build your dream PC by providing a customized list of
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ai-pc-part-picker.git
+   git clone https://github.com/Usman-Siddiqi/ai-pc-part-picker.git
    ```
 2. **Install dependencies:**
    ```bash
